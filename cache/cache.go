@@ -1,5 +1,5 @@
 package cache
 
 func Cache() string {
-	return "Cache()"
+	return "v2.0.2: Cache()"
 }
