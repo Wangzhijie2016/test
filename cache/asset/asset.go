@@ -1,5 +1,5 @@
 package asset
 
 func Asset() string {
-	return "asset.Asset()"
+	return "v2.0.12:asset.Asset()"
 }

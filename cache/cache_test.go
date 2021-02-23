@@ -5,7 +5,7 @@ import (
 )
 
 func TestCache(t *testing.T) {
-	if Cache() != "v2.0.8: Cache()" {
+	if Cache() != "v2.0.12: Cache()" {
 		t.Error("Cache() error")
 	}
 }
