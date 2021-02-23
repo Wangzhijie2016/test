@@ -1,3 +1,3 @@
-module github.com/Wangzhijie2016/test/v2000
+module github.com/Wangzhijie2016/test/abc
 
 go 1.15
